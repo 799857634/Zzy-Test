@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zzt\\Test": "src/"
+            "zzt": "src/"
         }
     }
 }
